@@ -13,4 +13,11 @@ public class OnetoN {
         i++;
     }
 
+int i = 0;
+    do{
+        System.out.println(i);
+        i++;
+    }while (i<=50);
+
+
 }}
